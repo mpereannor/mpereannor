@@ -15,8 +15,6 @@
 
 ---
 A Full Stack Software Developer that specializes in JavaScript technologies across the whole stack, to build and improve client side features. 
-<br>
-I am currently learning about building applications on the Ethereum network with Solidity and other DeFi technologies.
 
 
 <!-- code gif-->
